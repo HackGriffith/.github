@@ -3,4 +3,4 @@
 
 <p align=center>This organisation is the home of all GC Hackers! Make Pull Requests, open Issues, share ideas, help each other, make improvements & Tread Carefully!</p>
 
-<h2 align=center>Have fun & build cool stuff 🎉 </h2>
+<h2 align=center>Have fun & Build cool stuff 🎉 </h2>
